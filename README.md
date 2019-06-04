@@ -1,3 +1,4 @@
+```
 replace (
 	cloud.google.com/go => github.com/googleapis/google-cloud-go v0.34.0
 	github.com/go-tomb/tomb => gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7
@@ -26,3 +27,4 @@ replace (
 	labix.org/v2/mgo => github.com/go-mgo/mgo v0.0.0-20160801194620-b6121c6199b7
 	launchpad.net/gocheck => github.com/go-check/check v0.0.0-20180628173108-788fd7840127
 )
+```
